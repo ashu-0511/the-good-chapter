@@ -1,0 +1,38 @@
+{
+  "name": "the-good-chapter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "The Good Chapter — premium custom merchandise studio. One-page static site.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx serve out",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.1",
+    "delaunator": "^5.1.0",
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.26",
+    "next": "^16.3.6",
+    "qrcode": "^1.5.4",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "three": "^0.182.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.6.3",
+    "@types/qrcode": "^1.5.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/three": "^0.182.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.3.6",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3"
+  }
+}
