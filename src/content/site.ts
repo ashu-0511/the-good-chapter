@@ -17,9 +17,8 @@ export const site = {
    */
   whatsapp: "",
   socials: {
-    // PLACEHOLDER handles — replace with the real profiles.
-    instagram: "https://www.instagram.com/thegoodchapter",
-    linkedin: "https://www.linkedin.com/company/thegoodchapter",
+    instagram: "https://www.instagram.com/the.goodchapter/",
+    linkedin: "https://www.linkedin.com/company/good-chapter/",
   },
   /**
    * While true, placeholder stats / testimonials / photos show a small

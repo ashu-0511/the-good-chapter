@@ -53,7 +53,7 @@ All copy and media live in `src/content/`. You shouldn't need to touch any compo
 ### Before launch: replace the placeholders
 
 - [ ] **Domain:** set `site.url` in `site.ts`. It's used for the canonical URL, Open Graph, `robots.txt` and `sitemap.xml`.
-- [ ] **Socials:** set the Instagram and LinkedIn URLs in `site.socials` (the current handles are guesses).
+- [x] **Socials:** Instagram and LinkedIn URLs are configured in `site.socials`.
 - [ ] **WhatsApp (optional):** add a number to `site.whatsapp` to point "Talk to us" at WhatsApp instead of email.
 - [ ] **Stats:** put real numbers in `proof.ts` → `stats`, then set `placeholder: false`.
 - [ ] **Testimonials:** put real quotes, names and roles in `proof.ts` → `testimonials`.
