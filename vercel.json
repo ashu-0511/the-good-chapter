@@ -4,6 +4,11 @@
       "source": "/lander",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/lander/",
+      "destination": "/",
+      "permanent": true
     }
   ]
 }
