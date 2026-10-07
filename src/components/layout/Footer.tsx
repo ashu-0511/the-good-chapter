@@ -67,7 +67,6 @@ export function Footer() {
 
       <div className="mt-8 flex flex-col justify-between gap-3 border-t border-ivory/15 pt-6 text-[12.5px] text-mist md:flex-row">
         <p>© {year} The Good Chapter. All rights reserved.</p>
-        <p>Photography shown is placeholder imagery via Unsplash.</p>
       </div>
     </footer>
   );

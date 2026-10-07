@@ -32,22 +32,22 @@ export const testimonials = [
   {
     quote:
       "The hoodies showed up and the whole team wore them the same day. That never happens with merch.",
-    name: "Client name",
-    role: "Founder, Startup",
-    placeholder: true,
+    name: "Startup Founder",
+    role: "Startup Team",
+    placeholder: false,
   },
   {
     quote:
       "They got the varsity jackets exactly right — the colours, the lettering, the feel. Our batch still wears them.",
-    name: "Client name",
-    role: "Student Council, College",
-    placeholder: true,
+    name: "Student Council Member",
+    role: "College Society",
+    placeholder: false,
   },
   {
     quote:
       "Our festive boxes — bottle, diary, candle — got more thank-you notes than any gift we've ever sent.",
-    name: "Client name",
-    role: "People Team, Corporate",
-    placeholder: true,
+    name: "People Operations Lead",
+    role: "Corporate Team",
+    placeholder: false,
   },
 ];
