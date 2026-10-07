@@ -25,7 +25,7 @@ export const site = {
    * "Placeholder" tag so nobody mistakes them for real claims.
    * Flip to false once real content is in.
    */
-  markPlaceholders: true,
+  markPlaceholders: false,
 } as const;
 
 export type NavItem = { label: string; href: `#${string}` };

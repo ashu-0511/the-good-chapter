@@ -65,7 +65,7 @@ export function Lightbox({
               <h2 id="lightbox-title" className="font-display text-2xl font-semibold tracking-[-0.03em] md:text-3xl">
                 {item.title}
               </h2>
-              <p className="text-label mt-2 text-mist">{item.tag} — placeholder photography</p>
+              <p className="text-label mt-2 text-mist">{item.tag}</p>
             </div>
             <div className="flex gap-2">
               <button
